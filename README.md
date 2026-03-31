@@ -1,4 +1,4 @@
-# sql-data-analytics-project
+# Data Analytics Project
 Welcome to my **Data Analytics Projects** repository. 
 
 This repository contains a collection of scripts and projects focused on analysing the data sets . The goal of these projects is to demonstrate practical skills in querying techniques, creating views, tables and showing the results to the users such as business or customers.
